@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Waste Facility 1",
+    "address": "123 Toxic Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90001",
+    "lat": 33.9731,
+    "lng": -118.2487
+  },
+  {
+    "name": "Waste Facility 2",
+    "address": "456 Pollute Blvd",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "lat": 40.7537,
+    "lng": -73.9970
+  },
+  {
+    "name": "Waste Facility 3",
+    "address": "789 Danger St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "lat": 41.8853,
+    "lng": -87.6226
+  },
+
+  {
+    "name": "Burlington County Hazardous Waste",
+    "address": "10 Transfer Road ",
+    "city": "Florence",
+    "state": "NJ",
+    "zip": "08518",
+    "lat": 40.077047,
+    "lng": -74.768391
+  }
+]
